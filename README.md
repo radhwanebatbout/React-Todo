@@ -1,5 +1,5 @@
 # React-Todo
-TodoList
+TodoList install
 **************
 Yarn install
 **************
